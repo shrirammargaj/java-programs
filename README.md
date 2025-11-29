@@ -1,7 +1,8 @@
 # Java DSA Programs
 
 ## About This Repo
-Welcome! 👋  
+Welcome! 👋 
+hey there , i'm nikhil
 This repository contains my Data Structures & Algorithms (DSA) programs in Java.  
 It’s a personal collection of solutions for common DSA problems, ranging from arrays and strings to linked lists, trees, and sorting algorithms.  
 The goal is to practice, learn, and showcase my problem-solving skills in Java.
