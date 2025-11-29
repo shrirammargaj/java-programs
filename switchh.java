@@ -12,6 +12,8 @@ class switchh{
             break;
             case 3 : System.out.println("Bonjour");
             break;
+            case 4 : System.out.println("namaskar");
+            break;
             default : System.out.println("Invalid button");
         }
 
