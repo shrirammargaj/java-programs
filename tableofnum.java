@@ -1,3 +1,5 @@
+//write a code for table, thus the input num of tha table is taken by user
+
 import java.util.*;
 
 public class tableofnum{
