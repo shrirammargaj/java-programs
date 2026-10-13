@@ -1,22 +1,36 @@
-# Java DSA Programs
+# Java Programming Portfolio
 
-## About This Repo
-Welcome! 👋 
-hey there , i'm nikhil
-This repository contains my Data Structures & Algorithms (DSA) programs in Java.  
-It’s a personal collection of solutions for common DSA problems, ranging from arrays and strings to linked lists, trees, and sorting algorithms.  
-The goal is to practice, learn, and showcase my problem-solving skills in Java.
+A collection of Java programs developed to strengthen programming fundamentals, understand core Java concepts, and improve problem-solving skills.
 
-## Folder Structure
-- arrays/ – Programs related to arrays (searching, sorting, max/min, etc.)  
-- strings/ – String manipulation and palindrome problems  
-- linkedlist/ – Single and double linked list examples  
-- trees/ – Binary trees and binary search trees  
-- sorting/ – Different sorting algorithm implementations  
+## Topics Covered
+
+- Java Fundamentals
+- Variables and Data Types
+- Conditional Statements and Loops
+- Arrays and Strings
+- Object-Oriented Programming (OOP)
+- Methods and Functions
+- Basic Problem-Solving
+
+## Technologies Used
+
+- Java
+- Git
+- GitHub
+
+## Purpose
+
+This repository documents my progress in Java programming through hands-on coding practice and implementation of fundamental programming concepts.
 
 ## How to Run
-1. Make sure Java JDK is installed on your computer.  
-2. Clone this repository:
-   `bash
-   git clone <your-repo-link>
-   
+
+1. Clone this repository.
+2. Open the project in your preferred Java IDE.
+3. Compile and run the Java program you want to execute.
+
+## Author
+
+**Shriram Dilip Margaj**
+
+- GitHub: [shrirammargaj](https://github.com/shrirammargaj)
+- LinkedIn: [Shriram Margaj](https://linkedin.com/in/shriram-margaj)
